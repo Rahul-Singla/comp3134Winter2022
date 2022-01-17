@@ -1,0 +1,19 @@
+Domain: Google.com
+IP: 173.194.210.101
+Geolocation: 37.42240 -122.08421
+
+Domain: Microsoft.com
+IP: 104.215.148.63
+Geolocation: 47.63883 -122.13123
+
+Domain: Github.com
+IP: 140.82.112.4
+Geolocation: 37.78229 -122.39117
+
+Domain: Georgebrown.ca
+IP: 99.79.139.11
+Geolocation: 47.55379 -122.30346
+
+Domain: Amazon.com
+IP: 54.239.28.85
+Geolocation: 37.54068 -77.43367
