@@ -1,0 +1,1 @@
+Strip Tags will remove the HTML tags, while HTML entities convert the HTML tags to entities.

@@ -1,0 +1,9 @@
+Q: 10,000 TCP packets all at once from random source IP Addresses
+A: hping3 -c 10000 --rand-source --flood www.hping3testsite.com
+
+
+Q: 9,000 UDP packets in a span of 90 seconds from a spoofed source address
+A: hping3 www.hping3testsite.com -c 9000 --faster --udp --spoof 192.168.29.1
+
+Q: 11,000 ICMP packets with a data size of 1KB at an interval of 75 packets per second
+A: hping3 www.hping3testsite.com -c 11000 -i u750 --faster --icmp -d 1024

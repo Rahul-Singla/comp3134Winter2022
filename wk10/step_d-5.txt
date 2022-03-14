@@ -1,0 +1,11 @@
+What you see on the browser (the issue)
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => html
+    [3] => your_domain
+)
+
+What sensitive information is given by this page
+It displays all files and folders in one directory back. Here ../ is HTML encoded
