@@ -1,0 +1,1 @@
+On reading the file, php is executing the text written in txt file, so it is redirecting to mentioned url.
