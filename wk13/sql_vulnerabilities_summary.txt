@@ -1,0 +1,5 @@
+1) Nothing displayed in Table (No rows found). Yes, its expected
+
+2) Ben's record show up. Its not expected as we are quering only active accounts. It comment out the active condition
+
+3) Error Showed up due to extra quote, but if we use Ben' or '1'='1 then it display all records
